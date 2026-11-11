@@ -1,0 +1,1 @@
+# Sistema-de-Triagem-ptica-e-Classifica-o-de-Cores-em-Processos-Industriais
