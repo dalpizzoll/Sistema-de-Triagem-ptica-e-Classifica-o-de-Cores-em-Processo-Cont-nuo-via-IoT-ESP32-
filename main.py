@@ -9,14 +9,14 @@ from umqtt.robust import MQTTClient
 # =====================================================
 # WIFI
 # =====================================================
-WIFI_SSID = "IFRS-ALUNOS"
-WIFI_PASS = "aluno@ifrs2024"
+WIFI_SSID = "ID_REDE"
+WIFI_PASS = "DENHA"
 
 # =====================================================
 # THINGSBOARD
 # =====================================================
 BROKER = "demo.thingsboard.io"
-ACCESS_TOKEN = "1aKGTdLscxtK3Fh14Cuh"
+ACCESS_TOKEN = "INSIRA AQUI"
 CLIENT_ID = b"ESP32_" + ubinascii.hexlify(machine.unique_id())
 
 # =====================================================
